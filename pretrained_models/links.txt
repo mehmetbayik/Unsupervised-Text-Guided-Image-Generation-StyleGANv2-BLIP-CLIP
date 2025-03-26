@@ -1,0 +1,11 @@
+The following are the links to the models used in the project:
+
+StyleGAN3 Model: stylegan2-afhqcat-512x512.pkl
+
+https://api.ngc.nvidia.com/v2/models/org/nvidia/team/research/stylegan2/1/files?redirect=true&path=stylegan2-afhqcat-512x512.pkl
+
+ClIP Model: ViT-B/32
+https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt
+
+BLIP Model: BLIP w/ ViT-B and CapFilt-L
+https://storage.googleapis.com/sfr-vision-language-research/BLIP/models/model_base_capfilt_large.pth
